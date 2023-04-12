@@ -4,6 +4,6 @@
 
 <div align=center> 
   <a href="https://github.com/YUSHINSHUB/JAVA_ALGORITHM" target="_blank"><img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=white"></a> 
-	<a href="https://github.com/YUSHINSHUB/CPP_ALGORITHM" target="_blank"><img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=white"></a>  
+
   <br>
 	</div>
