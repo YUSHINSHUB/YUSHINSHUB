@@ -3,8 +3,8 @@
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center>
-  <a href="https://github.com/YUSHINSHUB/JAVA_ALGORITHM" target="_blank"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=openjdk&logoColor=white"/></a>
-<a href="https://github.com/YUSHINSHUB/CPP_ALGORITHM" target="_blank"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=cplusplus&logoColor=white"/></a>
+  <a href="https://github.com/YUSHINSHUB/JAVA_ALGORITHM" target="_blank"><img src="https://img.shields.io/badge/JAVA-3CBDB1?style=flat-square&logo=openjdk&logoColor=white"/></a>
+<a href="https://github.com/YUSHINSHUB/CPP_ALGORITHM" target="_blank"><img src="https://img.shields.io/badge/C++-3CBDB1?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 
 
 </div>
