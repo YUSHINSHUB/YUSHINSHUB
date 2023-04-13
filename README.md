@@ -19,6 +19,6 @@
   <a href="https://steamcommunity.com/id/SkyrimDuck/" target="_blank"><img src="https://img.shields.io/badge/STEAM-000000?style=flat-square&logo=steam&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/rladbtls_1--9x3-003791?style=flat-square&logo=playstation&logoColor=white"/>
   <img src="https://img.shields.io/badge/SW--8564--5864--5398-E60012?style=flat-square&logo=nintendoswitch&logoColor=white"/>
- <img src="[https://img.shields.io/badge/SW--8564--5864--5398-E60012?style=flat-square&logo=nintendoswitch&logoColor=white](http://mazassumnida.wtf/api/v2/generate_badge?boj=kus9087)"/>
+ <br>
+ <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kus9087"/>
 </div>
-(http://mazassumnida.wtf/api/v2/generate_badge?boj=kus9087)](https://solved.ac/kus9087/)
