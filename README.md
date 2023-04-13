@@ -1,5 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=진정한%20남자%20김유신&fontSize=90&animation=fadeIn" />
 
+<div align=center><h1>💻BAEKJOON</h1></div>
+<div align=center> 
+  <a href="https://github.com/YUSHINSHUB/JAVA_ALGORITHM" target="_blank"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kus9087"/></a>
+ </div>
+
+
 <div align=center><h1>📚TECH STACK</h1></div>
 
 <div align=center>
@@ -19,6 +25,5 @@
   <a href="https://steamcommunity.com/id/SkyrimDuck/" target="_blank"><img src="https://img.shields.io/badge/STEAM-000000?style=flat-square&logo=steam&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/rladbtls_1--9x3-003791?style=flat-square&logo=playstation&logoColor=white"/>
   <img src="https://img.shields.io/badge/SW--8564--5864--5398-E60012?style=flat-square&logo=nintendoswitch&logoColor=white"/>
- <br>
- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kus9087"/>
+ 
 </div>
