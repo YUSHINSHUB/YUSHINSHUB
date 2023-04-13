@@ -19,10 +19,6 @@
   <a href="https://steamcommunity.com/id/SkyrimDuck/" target="_blank"><img src="https://img.shields.io/badge/STEAM-000000?style=flat-square&logo=steam&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/rladbtls_1--9x3-003791?style=flat-square&logo=playstation&logoColor=white"/>
   <img src="https://img.shields.io/badge/SW--8564--5864--5398-E60012?style=flat-square&logo=nintendoswitch&logoColor=white"/>
+ <img src="[https://img.shields.io/badge/SW--8564--5864--5398-E60012?style=flat-square&logo=nintendoswitch&logoColor=white](http://mazassumnida.wtf/api/v2/generate_badge?boj=kus9087)"/>
 </div>
-poetry install             # 의존성 설치
-poetry shell               # 가상환경에 진입
-python manage.py runserver # 서버 실행
-<div align=center>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kus9087)](https://solved.ac/kus9087/)
-  </div>
+(http://mazassumnida.wtf/api/v2/generate_badge?boj=kus9087)](https://solved.ac/kus9087/)
