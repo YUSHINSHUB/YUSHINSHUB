@@ -9,6 +9,8 @@
 
 <div align=center><h1>😝ME😝</h1></div>
 <div align=center>
+   <a href="https://open.kakao.com/me/yusin" target="_blank"><img src="https://img.shields.io/badge/KAKAOTALK-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/></a>
+  <a href="mailto:kus9087@naver.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
   <a href="https://instagram.com/rladbtls_1.9x3?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://youtube.com/@user-zy8hg4vf1z" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
   <br>
