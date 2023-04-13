@@ -3,8 +3,10 @@
 <div align=center><h1>📚TECH STACK</h1></div>
 
 <div align=center>
+ <img src="https://img.shields.io/badge/SAP ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
+  <br>
   <a href="https://github.com/YUSHINSHUB/JAVA_ALGORITHM" target="_blank"><img src="https://img.shields.io/badge/JAVA-3CBDB1?style=flat-square&logo=openjdk&logoColor=white"/></a>
-<a href="https://github.com/YUSHINSHUB/CPP_ALGORITHM" target="_blank"><img src="https://img.shields.io/badge/C++-3CBDB1?style=flat-square&logo=cplusplus&logoColor=white"/></a>
+<a href="https://github.com/YUSHINSHUB/CPP_ALGORITHM" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 </div>
 
 <div align=center><h1>😝ME😝</h1></div>
@@ -18,3 +20,7 @@
   <img src="https://img.shields.io/badge/rladbtls_1--9x3-003791?style=flat-square&logo=playstation&logoColor=white"/>
   <img src="https://img.shields.io/badge/SW--8564--5864--5398-E60012?style=flat-square&logo=nintendoswitch&logoColor=white"/>
 </div>
+
+<div align=center>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kus9087)](https://solved.ac/kus9087/)
+  </div>
