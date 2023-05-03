@@ -2,7 +2,7 @@
 
 <div align=center><h1>💻BAEKJOON</h1></div>
 <div align=center> 
-  <a href="https://www.acmicpc.net/user/kus9087" target="_blank"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kus9087"/></a>
+  <a href="https://www.acmicpc.net/user/hs4045" target="_blank"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs4045"/></a>
  </div>
 
 
