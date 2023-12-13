@@ -11,8 +11,15 @@
 <div align=center>
    <a href="https://www.credly.com/badges/a980cd10-aa99-43ef-86cf-0b7c07d67b6b/public_url" target="_blank"><img src="https://img.shields.io/badge/SAP NetWeaver 7.50 Certified-0FAAFF?style=flat-square&logo=sap&logoColor=white"/></a>
   <br>
-  <a href="https://github.com/YUSHINSHUB/JAVA_ALGORITHM" target="_blank"><img src="https://img.shields.io/badge/JAVA-3CBDB1?style=flat-square&logo=openjdk&logoColor=white"/></a>
-<a href="https://github.com/YUSHINSHUB/CPP_ALGORITHM" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=Adobe&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 </div>
 
 <div align=center><h1>😝ME😝</h1></div>
